@@ -1,0 +1,14 @@
+flask
+Flask-WTF
+Flask-Login
+Flask-JWT-Extended
+Flask-Mail
+Flask-Migrate
+Flask-SQLAlchemy
+Flask-Limiter
+Flask-Talisman
+email-validator
+python-dotenv
+Werkzeug
+psycopg2-binary
+gunicorn
