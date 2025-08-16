@@ -1,0 +1,7 @@
+import os
+class Config:
+    SECRET_KEY = "test"
+    SQLALCHEMY_DATABASE_URI = ""
+    SQLALCHEMY_TRACK_MODIFICATIONS = False
+    SESSION_COOKIE_HTTPONLY = True
+    SESSION_COOKIE_SECURE = True

@@ -7,6 +7,7 @@ Flask-Migrate
 Flask-SQLAlchemy
 Flask-Limiter
 Flask-Talisman
+Flask-Bcrypt
 email-validator
 python-dotenv
 Werkzeug
